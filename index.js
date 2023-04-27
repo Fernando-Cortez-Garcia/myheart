@@ -43,7 +43,9 @@ function Mensaje() {
         'https://i.pinimg.com/564x/b2/3a/a9/b23aa93a9d91c4006bcd45c29cefbc51.jpg',
         'https://i.pinimg.com/originals/0f/d6/75/0fd675d90a3118a155a23de3528af17f.gif',
         'https://i.pinimg.com/564x/55/b6/5f/55b65f567a2366ea3506720075717027.jpg',
-        'https://i.pinimg.com/564x/64/13/54/64135470209ecab50d471cdf9b432b54.jpg'
+        'https://i.pinimg.com/564x/64/13/54/64135470209ecab50d471cdf9b432b54.jpg',
+        'https://i.pinimg.com/564x/3d/f2/d5/3df2d5e91aa14362a75acca3d1518d44.jpg',
+        'https://i.pinimg.com/736x/c5/a6/dd/c5a6dd150b4a2e794b3adbcf93d1dd69.jpg'
 
 
 
