@@ -52,11 +52,11 @@ function Mensaje() {
     ]
 
 
-    var mensaje = mensajes[Math.floor(Math.random(3) * mensajes.length)];
+    var mensaje = mensajes[Math.floor(Math.random() * mensajes.length)];
 
-    var apodo = apodos[Math.floor(Math.random(2) * apodos.length)];
+    var apodo = apodos[Math.floor(Math.random() * apodos.length)];
 
-    var imagen = imagenes[Math.floor(Math.random(1) * imagenes.length)];
+    var imagen = imagenes[Math.floor(Math.random() * imagenes.length)];
 
 
     Swal.fire({
